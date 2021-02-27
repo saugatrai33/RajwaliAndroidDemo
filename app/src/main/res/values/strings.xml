@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RajwaliAndroidDemo</string>
+    <string name="btn_label_open_drawer">Open Drawer</string>
+    <string name="btn_label_close_drawer">Close Drawer</string>
+</resources>
